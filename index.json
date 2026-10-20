@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "jaraco.modb",
+  "versions": [
+    {
+      "commit": "66cebd9b315631341b0c66d308cc18ee643f50e2",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:24:53.667046+00:00"
+    }
+  ]
+}
